@@ -1,0 +1,28 @@
+
+
+
+#include<stdio.h>
+int main()
+{
+           int a;
+		   int b;
+		   printf("enter the value of a :");
+		   scanf("%d",&a);
+		   printf("enter the value of b :");
+		   
+		   if(a<b){
+		   
+		   printf("a is big");
+		   
+		   }else{
+		   printf("b is big");
+		    
+			return 0;
+			
+		   
+		   
+		   
+		   
+		   
+		   }
+

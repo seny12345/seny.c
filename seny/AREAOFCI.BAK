@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+    int main()
+{
+      float r;
+      float circle;
+      float pi;
+      clrscr();
+      pi=3.14;
+      printf("Enter the value:");
+      scanf("%f",&r);
+      circle=r*r*pi;
+
+      printf("The value is %f",circle);
+      return 0;
+
+
+}
